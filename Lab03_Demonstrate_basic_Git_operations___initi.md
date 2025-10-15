@@ -1,7 +1,7 @@
 # Lab 03: Demonstrate basic Git operations — initialize, add, commit, and push code to a remote GitHub repository.
 
 ## Objective
-Describe the objective of this lab here.
+add,commit and push
 
 ## Tools / Technologies
 List the tools and technologies required (e.g., Git, GitHub, Docker, Jenkins).
